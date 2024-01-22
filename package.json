@@ -1,0 +1,19 @@
+{
+  "name": "gitlab-backuper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backuper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.5",
+    "fs-extra": "^11.2.0"
+  }
+}
